@@ -1,4 +1,4 @@
-**Multiple-Disease-Prediction-System**
+# **Multiple-Disease-Prediction-System**
 
 # Problem Statement
 The traditional diagnosis approach entails a patient visiting a doctor, undergoing many medical tests, and then reaching a consensus. This process is very time-consuming. This project proposes an automated disease prediction system to save time required for the initial process of disease prediction that relies on user input. The user gives input to the system and system provides the user with a prediction of their chances to tackle heart diseases and diabetes. Multi Disease Prediction” system based on predictive modeling predicts the disease of the user of the basis of the values entered by the user against specific parameters that user provides as an input to the system. The system analyzes the values provided by the user as input and gives the probability of the disease as an output.
